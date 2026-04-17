@@ -17,7 +17,7 @@ export function Hero() {
           <div className="mb-8">
             <Image
               src="/logo.png"
-              alt="RP Services - Lavage & Hygiénisation"
+              alt="RP Services - Nettoyage & Hygiénisation"
               width={280}
               height={93}
               className="h-24 md:h-32 w-auto mx-auto"
@@ -33,7 +33,7 @@ export function Hero() {
 
           {/* Main heading */}
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-8 leading-tight text-balance">
-            Lavage et hygiénisation{" "}
+            Nettoyage et hygiénisation{" "}
             <span className="text-primary">professionnelle</span>{" "}
           </h1>
 

@@ -11,14 +11,14 @@ export function Footer() {
             <div className="mb-6">
               <Image
                 src="/logo.png"
-                alt="RP Services - Lavage & Hygiénisation"
+                alt="RP Services - Nettoyage & Hygiénisation"
                 width={220}
                 height={73}
                 className="h-20 w-auto"
               />
             </div>
             <p className="text-white/70 text-sm leading-relaxed">
-              Service professionnel de lavage et hygiénisation dans toute la Suisse romande.
+              Service professionnel de Nettoyage et hygiénisation dans toute la Suisse romande.
             </p>
           </div>
 

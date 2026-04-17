@@ -11,8 +11,8 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: 'RP Services – Lavage & Hygiénisation Professionnelle',
-  description: 'Service professionnel de lavage et hygiénisation de textiles et intérieurs auto à domicile dans le Canton de Vaud. Produits 100% vegan et écologiques.',
+  title: 'RP Services – Nettoyage & Hygiénisation Professionnelle',
+  description: 'Service professionnel de nettoyage et hygiénisation de textiles, nettoyage fin de chantier, nettoyage fin de bail  et intérieurs auto à domicile dans toute la suisse romande. Produits 100% vegan et écologiques.',
 }
 
 export default function RootLayout({
